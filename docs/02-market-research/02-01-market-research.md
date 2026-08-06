@@ -72,7 +72,7 @@ A partir de esta investigación se establecen los siguientes principios para el 
 
 # 8. Conclusiones
 
-La investigación valida fuertemente la visión de Fulbito. Mientras el mercado se pelea por organizar el *próximo* partido o administrar el torneo de los domingos, Fulbito busca convertirse en el lugar donde la historia de cada grupo permanezca en el tiempo. Para un análisis más profundo sobre las decisiones que tomaremos a partir de estos datos, referirse al archivo `conclusions.md`.
+La investigación valida fuertemente la visión de Fulbito. Mientras el mercado se pelea por organizar el *próximo* partido o administrar el torneo de los domingos, Fulbito busca convertirse en el lugar donde la historia de cada grupo permanezca en el tiempo. Para un análisis más profundo sobre las decisiones que tomaremos a partir de estos datos, referirse al archivo `02-02-conclusions.md`.
 
 /* ## Trazabilidad
 

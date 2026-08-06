@@ -47,7 +47,7 @@ Los usuarios valoran la simplicidad, disfrutan de la competencia amistosa y busc
 
 # 5. Nuestra propuesta de valor
 
-Fulbito busca que cualquier grupo de fútbol amateur pueda registrar un partido en pocos pasos y construir, con el tiempo, un historial compartido de resultados, estadísticas y recuerdos. La aplicación prioriza la rapidez, la simplicidad y la experiencia de uso para que el foco siempre siga estando dentro de la cancha.
+Fulbito busca que cualquier grupo de fútbol amateur pueda registrar un partido en pocos pasos y construir, con el paso del tiempo, un historial compartido de resultados, estadísticas y recuerdos. La aplicación prioriza la rapidez, la simplicidad y la experiencia de uso para que el foco siempre siga estando dentro de la cancha.
 
 ---
 
@@ -79,9 +79,7 @@ Fulbito no pretende ser:
 
 # 8. Objetivos del MVP
 
-El primer objetivo de Fulbito es validar que registrar partidos puede ser un proceso rápido, simple y útil para cualquier grupo de fútbol amateur.
-
-El MVP buscará validar la propuesta de valor de Fulbito mediante un conjunto reducido de funcionalidades esenciales.
+El MVP tiene como objetivo validar la propuesta de valor de Fulbito mediante un conjunto reducido de funcionalidades esenciales.
 
 El MVP deberá permitir:
 
@@ -118,3 +116,11 @@ En el futuro, la plataforma incorporará funcionalidades como la diferenciación
 > ## Manifiesto
 >
 > **Cada partido cuenta una historia. Fulbito existe para que esa historia nunca se pierda.**
+
+---
+
+## Navegación
+
+⬅ **Inicio** (`README.md`)
+
+➡ **Siguiente:** `02-market-research/`
