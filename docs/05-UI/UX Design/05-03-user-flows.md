@@ -329,7 +329,7 @@ La solicitud queda en estado:
 
 ### [4. Notificación al Grupo]
 
-Los jugadores que participaron del partido afectado reciben una notificación indicando que existe una solicitud de corrección pendiente, ya que son quienes están habilitados para votar (ver `03-requirements/08-voting-rules.md`).
+Los jugadores que participaron del partido afectado reciben una notificación indicando que existe una solicitud de corrección pendiente, ya que son quienes están habilitados para votar (ver `03-requirements/03-08-voting-rules.md`).
 
 ↓
 
@@ -370,7 +370,7 @@ Si la solicitud es aprobada:
 4. Se actualiza el historial.
 5. La solicitud pasa a estado **Aprobada**.
 
-Si los votos en contra hacen matemáticamente imposible alcanzar el criterio de aprobación (`requiredToPass`), la solicitud pasa automáticamente a estado **Rechazada**, conforme a la fórmula definida en `03-requirements/08-voting-rules.md`.
+Si los votos en contra hacen matemáticamente imposible alcanzar el criterio de aprobación (`requiredToPass`), la solicitud pasa automáticamente a estado **Rechazada**, conforme a la fórmula definida en `03-requirements/03-08-voting-rules.md`.
 
 ↓
 

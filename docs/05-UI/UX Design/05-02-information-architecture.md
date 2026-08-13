@@ -257,7 +257,7 @@ Como Fulbito no posee roles jerárquicos, todos los integrantes acceden a las mi
 - Invitaciones.
 - Configuración general del grupo.
 
-Las acciones consideradas críticas (expulsar a un integrante, eliminar el grupo) se inician desde aquí, pero su aplicación depende de alcanzar la aprobación mediante votación colectiva, no de un permiso individual (ver `03-requirements/08-voting-rules.md`).
+Las acciones consideradas críticas (expulsar a un integrante, eliminar el grupo) se inician desde aquí, pero su aplicación depende de alcanzar la aprobación mediante votación colectiva, no de un permiso individual (ver `03-requirements/03-08-voting-rules.md`).
 
 ---
 
@@ -494,7 +494,7 @@ Al seleccionar un jugador se accederá a su **Perfil Deportivo dentro del grupo*
 
 La sección Miembros permite consultar a los integrantes del grupo.
 
-Fulbito no posee roles jerárquicos (ver `03-requirements/07-roles-permissions.md`), por lo que la información y las acciones disponibles son las mismas para todos los integrantes. Para cada jugador se mostrará:
+Fulbito no posee roles jerárquicos (ver `03-requirements/03-07-roles-permissions.md`), por lo que la información y las acciones disponibles son las mismas para todos los integrantes. Para cada jugador se mostrará:
 
 - Avatar.
 - Nombre.
@@ -505,7 +505,7 @@ Cualquier integrante puede acceder, sin restricciones adicionales, a:
 - Generación de invitaciones.
 - Configuración general del grupo (nombre, imagen, modalidad predeterminada).
 
-Las únicas acciones restringidas son las consideradas críticas (expulsar a un integrante, eliminar el grupo), que no dependen de un permiso individual sino de alcanzar la aprobación mediante votación colectiva definida en `03-requirements/08-voting-rules.md`.
+Las únicas acciones restringidas son las consideradas críticas (expulsar a un integrante, eliminar el grupo), que no dependen de un permiso individual sino de alcanzar la aprobación mediante votación colectiva definida en `03-requirements/03-08-voting-rules.md`.
 
 ---
 

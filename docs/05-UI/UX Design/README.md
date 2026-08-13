@@ -26,12 +26,12 @@ Aquí se define **cómo se ve Fulbito, cómo se organiza la información, cómo 
 | Documento | Descripción |
 | --- | --- |
 | `README.md` | Documento principal con la introducción, organización y objetivos de la etapa de diseño UI/UX. |
-| `01-design-system.md` | Sistema de diseño: definición de colores, tipografías, iconografía, botones, tarjetas, campos de entrada, espaciados y estados visuales. |
-| `02-information-architecture.md` | Arquitectura de la información: mapa de navegación, jerarquía de contenidos, navegación global, navegación dentro de grupos y uso de modales y Bottom Sheets. |
-| `03-user-flows.md` | Flujos de usuario detallados paso a paso para las principales tareas de Fulbito, incluyendo creación de grupos, organización de partidos, ingreso de jugadores y solicitud de correcciones. |
-| `04-wireframes.md` | Estructura conceptual de las interfaces mediante esquemas de baja fidelidad, definiendo la distribución funcional de los elementos antes de aplicar el diseño visual definitivo. |
-| `05-screen-design.md` | Diseño visual de alta fidelidad de las pantallas principales, aplicando el sistema de diseño, la arquitectura de información y los flujos previamente definidos. |
-| `06-usability.md` | Criterios y directrices de usabilidad, accesibilidad, ergonomía, feedback, prevención de errores, navegación y adaptación al contexto de uso deportivo. |
+| `05-01-design-system.md` | Sistema de diseño: definición de colores, tipografías, iconografía, botones, tarjetas, campos de entrada, espaciados y estados visuales. |
+| `05-02-information-architecture.md` | Arquitectura de la información: mapa de navegación, jerarquía de contenidos, navegación global, navegación dentro de grupos y uso de modales y Bottom Sheets. |
+| `05-03-user-flows.md` | Flujos de usuario detallados paso a paso para las principales tareas de Fulbito, incluyendo creación de grupos, organización de partidos, ingreso de jugadores y solicitud de correcciones. |
+| `05-04-wireframes.md` | Estructura conceptual de las interfaces mediante esquemas de baja fidelidad, definiendo la distribución funcional de los elementos antes de aplicar el diseño visual definitivo. |
+| `05-05-screen-design.md` | Diseño visual de alta fidelidad de las pantallas principales, aplicando el sistema de diseño, la arquitectura de información y los flujos previamente definidos. |
+| `05-06-usability.md` | Criterios y directrices de usabilidad, accesibilidad, ergonomía, feedback, prevención de errores, navegación y adaptación al contexto de uso deportivo. |
 
 ---
 
@@ -106,27 +106,27 @@ Los colores, componentes, espaciados, tipografías e interacciones definidos en 
 Los documentos de esta etapa siguen una progresión desde las decisiones más generales hasta la definición concreta de las interfaces:
 
 ```text
-01 - Design System
+05-01 - Design System
         │
         │ Define la base visual
         ▼
-02 - Information Architecture
+05-02 - Information Architecture
         │
         │ Define cómo se organiza la información
         ▼
-03 - User Flows
+05-03 - User Flows
         │
         │ Define cómo se mueve el usuario
         ▼
-04 - Wireframes
+05-04 - Wireframes
         │
         │ Define la estructura de las pantallas
         ▼
-05 - Screen Design
+05-05 - Screen Design
         │
         │ Aplica el diseño visual definitivo
         ▼
-06 - Usability
+05-06 - Usability
         │
         │ Valida la experiencia de interacción
         ▼

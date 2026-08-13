@@ -17,7 +17,7 @@
 
 Fulbito no implementa una jerarquía de roles permanente. No existe un rol "administrador", "dueño del grupo" ni ningún otro rol individual con permisos especiales sobre el resto de los integrantes.
 
-Todos los integrantes activos de un grupo poseen el mismo nivel de permisos funcionales, con una única excepción: un conjunto reducido de **acciones críticas**, que en lugar de depender de un rol individual, requieren aprobación mediante **votación colectiva** (ver `08-voting-rules.md`).
+Todos los integrantes activos de un grupo poseen el mismo nivel de permisos funcionales, con una única excepción: un conjunto reducido de **acciones críticas**, que en lugar de depender de un rol individual, requieren aprobación mediante **votación colectiva** (ver `03-08-voting-rules.md`).
 
 Este enfoque es coherente con la filosofía del producto definida en la Visión y en la Investigación de Mercado: Fulbito es horizontal por diseño, sin delegados ni administradores de liga.
 
@@ -50,7 +50,7 @@ Se consideran acciones críticas aquellas que pueden afectar de forma permanente
 - Eliminar un grupo completo.
 - Aprobar una corrección sobre un partido finalizado.
 
-El mecanismo, la fórmula de aprobación y los votantes elegibles para cada tipo de acción crítica están definidos en `08-voting-rules.md`.
+El mecanismo, la fórmula de aprobación y los votantes elegibles para cada tipo de acción crítica están definidos en `03-08-voting-rules.md`.
 
 ---
 

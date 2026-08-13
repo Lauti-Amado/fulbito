@@ -97,7 +97,7 @@ Representa la participación de un usuario dentro de un grupo determinado.
 - **Atributos clave:** ID de usuario e ID de grupo.
 - **Responsabilidad:** Vincular al usuario con un grupo específico y servir como referencia para la participación en partidos y el cálculo de estadísticas.
 
-> **Nota:** Esta entidad no posee un atributo de rol jerárquico (como "administrador"). Todos los Jugadores de un mismo Grupo tienen el mismo nivel de permisos. Las pocas acciones críticas del sistema (expulsión de un integrante, eliminación del grupo) se resuelven mediante votación colectiva, no mediante un rol individual. Ver `03-requirements/07-roles-permissions.md`.
+> **Nota:** Esta entidad no posee un atributo de rol jerárquico (como "administrador"). Todos los Jugadores de un mismo Grupo tienen el mismo nivel de permisos. Las pocas acciones críticas del sistema (expulsión de un integrante, eliminación del grupo) se resuelven mediante votación colectiva, no mediante un rol individual. Ver `03-requirements/03-07-roles-permissions.md`.
 
 > **Nota:** Las estadísticas del jugador no constituyen información propia de esta entidad. Son datos derivados del historial de partidos del grupo.
 

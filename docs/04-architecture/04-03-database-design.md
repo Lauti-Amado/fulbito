@@ -196,7 +196,7 @@ Almacena las solicitudes de modificación sobre partidos finalizados y el estado
 }
 ```
 
-> **Nota:** `eligibleVoters` corresponde a los jugadores que participaron del partido en cuestión (no a todo el grupo). `requiredToPass` se calcula dinámicamente al crear la solicitud mediante una Cloud Function, aplicando la fórmula `floor(eligibleVoters.length / 2) + 1` (mayoría simple). El detalle completo está en `03-requirements/08-voting-rules.md`.
+> **Nota:** `eligibleVoters` corresponde a los jugadores que participaron del partido en cuestión (no a todo el grupo). `requiredToPass` se calcula dinámicamente al crear la solicitud mediante una Cloud Function, aplicando la fórmula `floor(eligibleVoters.length / 2) + 1` (mayoría simple). El detalle completo está en `03-requirements/03-08-voting-rules.md`.
 
 ---
 

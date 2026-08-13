@@ -67,10 +67,10 @@ En términos generales:
 - Solo los integrantes pueden registrar partidos y eventos.
 - Cualquier integrante puede modificar la configuración general del grupo (nombre, imagen, modalidad predeterminada).
 - Ningún usuario puede modificar directamente las estadísticas históricas.
-- Las acciones críticas (expulsar a un integrante, eliminar el grupo, aprobar correcciones sobre partidos finalizados) requieren aprobación colectiva mediante votación, conforme a lo definido en `03-requirements/08-voting-rules.md`.
+- Las acciones críticas (expulsar a un integrante, eliminar el grupo, aprobar correcciones sobre partidos finalizados) requieren aprobación colectiva mediante votación, conforme a lo definido en `03-requirements/03-08-voting-rules.md`.
 - Una sesión anónima posee exactamente los mismos permisos funcionales que una sesión vinculada a una cuenta completa; la única diferencia entre ambas es la persistencia y la posibilidad de sincronización entre dispositivos.
 
-El detalle completo de qué puede hacer cada integrante se encuentra documentado en `03-requirements/07-roles-permissions.md`.
+El detalle completo de qué puede hacer cada integrante se encuentra documentado en `03-requirements/03-07-roles-permissions.md`.
 
 ---
 

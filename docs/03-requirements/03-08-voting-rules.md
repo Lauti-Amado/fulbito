@@ -15,7 +15,7 @@
 
 # 1. Objetivo
 
-Este documento define cómo se aprueban las acciones críticas de Fulbito (ver `07-roles-permissions.md`), dado que el sistema no cuenta con un rol individual habilitado para decidir unilateralmente sobre ellas.
+Este documento define cómo se aprueban las acciones críticas de Fulbito (ver `03-07-roles-permissions.md`), dado que el sistema no cuenta con un rol individual habilitado para decidir unilateralmente sobre ellas.
 
 ---
 

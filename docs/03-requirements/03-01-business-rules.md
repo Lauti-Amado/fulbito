@@ -39,7 +39,7 @@ Este documento define las restricciones, invariantes y reglas lógicas que gobie
 - **BR-016:** Un jugador puede pertenecer simultáneamente a múltiples grupos independientes.
 - **BR-017:** La generación automática de equipos nunca modifica manualmente la composición definida por los jugadores.
 - **BR-018:** La eliminación de un jugador de un grupo no elimina su participación histórica en partidos anteriores.
-- **BR-019:** Las acciones que puedan afectar permanentemente el historial del grupo (por ejemplo, correcciones sobre partidos finalizados) deberán requerir aprobación mediante votación, según la fórmula y los criterios definidos en el documento de Reglas de Votación (`08-voting-rules.md`).
+- **BR-019:** Las acciones que puedan afectar permanentemente el historial del grupo (por ejemplo, correcciones sobre partidos finalizados) deberán requerir aprobación mediante votación, según la fórmula y los criterios definidos en el documento de Reglas de Votación (`03-08-voting-rules.md`).
 - **BR-020:** Ningún miembro puede alterar unilateralmente el historial del grupo.
 - **BR-021:** Todo partido registrado pertenece a un único grupo y forma parte permanente de su historial.
 - **BR-022:** Las estadísticas mostradas por el sistema deben calcularse exclusivamente a partir de los partidos válidos registrados en el historial del grupo.

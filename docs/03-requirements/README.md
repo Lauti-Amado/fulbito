@@ -24,14 +24,14 @@ El objetivo de esta fase es traducir la visión del producto y los hallazgos de 
 | Documento | Descripción |
 |-----------|-------------|
 | `README.md` | Documento principal con la introducción y organización de los requisitos. |
-| `01-business-rules.md` | Reglas de negocio que dictan la lógica central de Fulbito (ej. cómo se determina la racha de un jugador o qué constituye un partido válido). |
-| `02-functional-requirements.md` | Detalle exhaustivo de las acciones específicas que el sistema debe permitir realizar para cumplir con los objetivos del MVP. |
-| `03-user-stories.md` | Requisitos expresados desde la perspectiva del jugador, enfocados en el valor y la motivación detrás de cada funcionalidad. |
-| `04-use-cases.md` | Casos de uso que describen las interacciones paso a paso entre los usuarios y la aplicación. |
-| `05-non-functional-requirements.md` | Atributos de calidad del sistema, incluyendo rendimiento, disponibilidad, sincronización en tiempo real, seguridad, escalabilidad y demás restricciones técnicas. |
-| `06-glossary.md` | Definición de términos clave (ej. Partido Rápido, Historial, MVP) para mantener un lenguaje unificado y evitar ambigüedades durante el desarrollo. |
-| `07-roles-permissions.md` | Modelo horizontal de permisos: qué puede hacer cada integrante y qué acciones son consideradas críticas. |
-| `08-voting-rules.md` | Fórmula y mecánica de votación para las acciones críticas del sistema (correcciones, expulsiones, eliminación de grupo). |
+| `03-01-business-rules.md` | Reglas de negocio que dictan la lógica central de Fulbito (ej. cómo se determina la racha de un jugador o qué constituye un partido válido). |
+| `03-02-functional-requirements.md` | Detalle exhaustivo de las acciones específicas que el sistema debe permitir realizar para cumplir con los objetivos del MVP. |
+| `03-03-user-stories.md` | Requisitos expresados desde la perspectiva del jugador, enfocados en el valor y la motivación detrás de cada funcionalidad. |
+| `03-04-use-cases.md` | Casos de uso que describen las interacciones paso a paso entre los usuarios y la aplicación. |
+| `03-05-non-functional-requirements.md` | Atributos de calidad del sistema, incluyendo rendimiento, disponibilidad, sincronización en tiempo real, seguridad, escalabilidad y demás restricciones técnicas. |
+| `03-06-glossary.md` | Definición de términos clave (ej. Partido Rápido, Historial, MVP) para mantener un lenguaje unificado y evitar ambigüedades durante el desarrollo. |
+| `03-07-roles-permissions.md` | Modelo horizontal de permisos: qué puede hacer cada integrante y qué acciones son consideradas críticas. |
+| `03-08-voting-rules.md` | Fórmula y mecánica de votación para las acciones críticas del sistema (correcciones, expulsiones, eliminación de grupo). |
 
 ---
 
