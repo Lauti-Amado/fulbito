@@ -1,5 +1,18 @@
 # Picadito App
 
+> **Versión:** 1.0  
+> **Estado:** En elaboración
+
+---
+
+# Historial de versiones
+
+| Versión | Fecha | Autor | Cambios |
+|---------|--------|--------|----------|
+| 1.0 | 13/08/2026 | Lautaro Amado | Creación del documento |
+
+---
+
 ## Descripción
 
 Picadito App es una plataforma orientada al fútbol amateur argentino que facilita la organización de partidos, la búsqueda de jugadores cuando un equipo no completa sus cupos y la conexión entre equipos que desean enfrentarse. Su objetivo principal es simplificar la organización previa al partido, facilitando que los jugadores puedan encontrarse y disputar un encuentro.

@@ -89,10 +89,23 @@ El MVP deberá permitir:
 - Consultar el historial de partidos.
 - Visualizar estadísticas individuales y grupales.
 - Mantener una experiencia simple, rápida e intuitiva.
+- Permitir seleccionar la modalidad de juego (F5, F6, F7, F9 o F11) al crear un partido o al configurar las preferencias del grupo.
 
 ---
 
-# 9. Criterios de éxito
+# 9. Principios de Diseño
+
+Durante el desarrollo del producto, toda decisión deberá respetar los siguientes principios:
+
+- Priorizar la simplicidad antes que la cantidad de funcionalidades.
+- Reducir al mínimo la cantidad de acciones necesarias para registrar un partido.
+- Mantener la consistencia de la información histórica.
+- Favorecer la colaboración entre los integrantes del grupo.
+- Diseñar siempre pensando primero en dispositivos móviles.
+
+---
+
+# 10. Criterios de éxito
 
 El MVP será considerado exitoso si logra que:
 
@@ -105,11 +118,11 @@ El MVP será considerado exitoso si logra que:
 
 ---
 
-# 10. Visión a largo plazo
+# 11. Visión a largo plazo
 
 Fulbito aspira a convertirse en la aplicación de referencia para el fútbol amateur, permitiendo que cualquier grupo pueda conservar su historia a lo largo de los años.
 
-En el futuro, la plataforma incorporará funcionalidades como la diferenciación entre modalidades de juego (F5, F6, F7, F9 y F11), recomendaciones de rivales, generación automática de equipos equilibrados, estadísticas más avanzadas y nuevas herramientas para fortalecer la experiencia del grupo, manteniendo siempre la misma filosofía: simplicidad, rapidez y una experiencia centrada en disfrutar del fútbol.
+En el futuro, la plataforma incorporará funcionalidades como recomendaciones de rivales, estadísticas más avanzadas, torneos entre grupos y nuevas herramientas para fortalecer la experiencia del grupo, manteniendo siempre la misma filosofía: simplicidad, rapidez y una experiencia centrada en disfrutar del fútbol.
 
 ---
 

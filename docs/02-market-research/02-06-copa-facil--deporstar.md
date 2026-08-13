@@ -1,5 +1,18 @@
 # Copa Fácil / Deporstar
 
+> **Versión:** 1.0  
+> **Estado:** En elaboración
+
+---
+
+# Historial de versiones
+
+| Versión | Fecha | Autor | Cambios |
+|---------|--------|--------|----------|
+| 1.0 | 13/08/2026 | Lautaro Amado | Creación del documento |
+
+---
+
 ## Descripción
 
 Copa Fácil y Deporstar son plataformas robustas de gestión deportiva diseñadas para administrar torneos, ligas y campeonatos de fútbol amateur o semi-profesional. Ofrecen herramientas administrativas avanzadas para controlar desde la confección del fixture hasta las sanciones disciplinarias.

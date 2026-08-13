@@ -1,5 +1,18 @@
 # ⚽ Requisitos del Sistema
 
+> **Versión:** 1.0  
+> **Estado:** En elaboración
+
+---
+
+# Historial de versiones
+
+| Versión | Fecha | Autor | Cambios |
+|---------|--------|--------|----------|
+| 1.0 | 13/08/2026 | Lautaro Amado | Creación del documento |
+
+---
+
 Esta carpeta reúne toda la documentación funcional que especifica el comportamiento esperado del MVP de **Fulbito**.
 
 El objetivo de esta fase es traducir la visión del producto y los hallazgos de la investigación de mercado en especificaciones claras, medibles y accionables para el equipo de desarrollo. Aquí se especifica qué debe hacer la aplicación, quiénes interactuarán con ella y bajo qué reglas deberá operar.
@@ -17,6 +30,8 @@ El objetivo de esta fase es traducir la visión del producto y los hallazgos de 
 | `04-use-cases.md` | Casos de uso que describen las interacciones paso a paso entre los usuarios y la aplicación. |
 | `05-non-functional-requirements.md` | Atributos de calidad del sistema, incluyendo rendimiento, disponibilidad, sincronización en tiempo real, seguridad, escalabilidad y demás restricciones técnicas. |
 | `06-glossary.md` | Definición de términos clave (ej. Partido Rápido, Historial, MVP) para mantener un lenguaje unificado y evitar ambigüedades durante el desarrollo. |
+| `07-roles-permissions.md` | Modelo horizontal de permisos: qué puede hacer cada integrante y qué acciones son consideradas críticas. |
+| `08-voting-rules.md` | Fórmula y mecánica de votación para las acciones críticas del sistema (correcciones, expulsiones, eliminación de grupo). |
 
 ---
 

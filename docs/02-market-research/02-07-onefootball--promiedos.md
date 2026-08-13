@@ -1,5 +1,18 @@
 # OneFootball / Promiedos
 
+> **Versión:** 1.0  
+> **Estado:** En elaboración
+
+---
+
+# Historial de versiones
+
+| Versión | Fecha | Autor | Cambios |
+|---------|--------|--------|----------|
+| 1.0 | 13/08/2026 | Lautaro Amado | Creación del documento |
+
+---
+
 ## Descripción
 
 OneFootball (a nivel global) y Promiedos (a nivel local en Argentina) son los principales referentes en el consumo de información, estadísticas, rachas y resultados del fútbol profesional en tiempo real. 

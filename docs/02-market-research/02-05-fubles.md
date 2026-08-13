@@ -1,5 +1,18 @@
 # Fubles
 
+> **Versión:** 1.0  
+> **Estado:** En elaboración
+
+---
+
+# Historial de versiones
+
+| Versión | Fecha | Autor | Cambios |
+|---------|--------|--------|----------|
+| 1.0 | 13/08/2026 | Lautaro Amado | Creación del documento |
+
+---
+
 ## Descripción
 
 Fubles es una red social deportiva orientada a conectar jugadores para organizar y disputar partidos de fútbol en diversas ciudades. Funciona como una plataforma comunitaria donde cualquier persona puede unirse a un partido público disponible en su zona, ser evaluado y construir una reputación deportiva.

@@ -1,5 +1,18 @@
 # TeamSnap
 
+> **Versión:** 1.0  
+> **Estado:** En elaboración
+
+---
+
+# Historial de versiones
+
+| Versión | Fecha | Autor | Cambios |
+|---------|--------|--------|----------|
+| 1.0 | 13/08/2026 | Lautaro Amado | Creación del documento |
+
+---
+
 ## Descripción
 
 TeamSnap es la aplicación líder (especialmente en el mercado norteamericano) para la gestión integral de equipos deportivos amateurs y juveniles. Está diseñada para manejar toda la logística que rodea a un equipo formal, desde los entrenamientos hasta los pagos.

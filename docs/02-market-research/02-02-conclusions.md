@@ -1,5 +1,18 @@
 # Conclusiones del análisis de mercado
 
+> **Versión:** 1.0  
+> **Estado:** En elaboración
+
+---
+
+# Historial de versiones
+
+| Versión | Fecha | Autor | Cambios |
+|---------|--------|--------|----------|
+| 1.0 | 13/08/2026 | Lautaro Amado | Creación del documento |
+
+---
+
 ## Qué hacen bien los competidores
 
 *   **Logística y disponibilidad:** Herramientas como TeamSnap y Heja son excelentes resolviendo visualmente el "voy / no voy" (RSVP).

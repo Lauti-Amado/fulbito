@@ -1,5 +1,18 @@
 # Ticas
 
+> **Versión:** 1.0  
+> **Estado:** En elaboración
+
+---
+
+# Historial de versiones
+
+| Versión | Fecha | Autor | Cambios |
+|---------|--------|--------|----------|
+| 1.0 | 13/08/2026 | Lautaro Amado | Creación del documento |
+
+---
+
 ## Descripción
 
 Ticas es una herramienta orientada a grupos de fútbol amateur, diseñada específicamente para organizar partidos, convocar jugadores y llevar un registro básico de estadísticas. Su enfoque se centra en brindar un espacio dedicado para que los grupos que juegan habitualmente puedan administrar sus encuentros y mantener la información del equipo en un solo lugar.

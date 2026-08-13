@@ -1,5 +1,17 @@
 # 📚 Documentación de Fulbito
 
+> **Versión:** 1.0  
+> **Estado:** En elaboración
+
+---
+
+# Historial de versiones
+
+| Versión | Fecha | Autor | Cambios |
+|---------|--------|--------|----------|
+| 1.0 | 05/08/2026 | Lautaro Amado | Creación del documento |
+
+---
 Esta carpeta centraliza toda la documentación del proyecto **Fulbito**, organizada según las distintas etapas del ciclo de vida del software.
 
 El objetivo es centralizar las decisiones del proyecto, facilitar el mantenimiento de la documentación y servir como referencia durante el desarrollo.
@@ -14,7 +26,7 @@ El objetivo es centralizar las decisiones del proyecto, facilitar el mantenimien
 | `02-market-research/` | Investigación del mercado, análisis de competidores y oportunidades detectadas. |
 | `03-requirements/` | Requisitos funcionales y no funcionales, historias de usuario, casos de uso y reglas de negocio. |
 | `04-architecture/` | Arquitectura del sistema, decisiones técnicas, diagramas y estructura general del software. |
-| `05-design/` | Diseño de la experiencia de usuario (UX), interfaz (UI), wireframes y prototipos. |
+| `05-ui-ux-design/` | Diseño de la experiencia de usuario (UX), interfaz (UI), wireframes y prototipos. |
 | `06-development/` | Documentación relacionada con la implementación, estándares de código y decisiones de desarrollo. |
 | `07-testing/` | Estrategia de pruebas, casos de prueba y criterios de calidad. |
 | `08-deployment/` | Configuración de infraestructura, despliegue, CI/CD y publicación de la aplicación. |

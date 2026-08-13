@@ -1,5 +1,18 @@
 # ⚽ Investigación de Mercado
 
+> **Versión:** 1.0  
+> **Estado:** En elaboración
+
+---
+
+# Historial de versiones
+
+| Versión | Fecha | Autor | Cambios |
+|---------|--------|--------|----------|
+| 1.0 | 13/08/2026 | Lautaro Amado | Creación del documento |
+
+---
+
 Esta carpeta reúne toda la investigación realizada durante la etapa de análisis de mercado de **Fulbito**.
 
 El objetivo de esta fase fue comprender cómo resuelven actualmente los grupos de fútbol amateur la organización de sus partidos, identificar las fortalezas y debilidades de las soluciones existentes y detectar oportunidades para diferenciar el producto.

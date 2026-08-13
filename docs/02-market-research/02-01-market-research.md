@@ -31,7 +31,19 @@ Para entender el mercado, analizamos aplicaciones dividiéndolas en tres categor
 *   **Competencia Indirecta:** Herramientas que resuelven partes específicas del problema, ya sea a nivel administrativo o informativo (Copa Fácil, Deporstar, OneFootball, Promiedos).
 *   **Inspiración UX/UI:** Aplicaciones referentes en la gestión de equipos y dinámicas móviles (TeamSnap, Heja, Copero).
 
-# 4. Análisis de los competidores
+# 4. Criterios de comparación
+
+Para comparar las distintas soluciones se evaluaron los siguientes aspectos:
+
+- Organización de partidos.
+- Registro de estadísticas.
+- Historial de encuentros.
+- Gestión de grupos privados.
+- Experiencia móvil.
+- Facilidad de uso.
+- Diferenciadores principales.
+
+# 5. Análisis de los competidores
 
 Cada competidor fue analizado en profundidad en documentos individuales. A continuación, se presenta la matriz de comparación que resume el panorama general:
 
@@ -46,19 +58,19 @@ Cada competidor fue analizado en profundidad en documentos individuales. A conti
 
 *(Para ver el análisis detallado de cada herramienta, consultar los archivos .md correspondientes en este directorio).*
 
-# 5. Oportunidades detectadas
+# 6. Oportunidades detectadas
 
 1.  **El vacío del "Post-Partido":** Casi todas las apps terminan su trabajo cuando el árbitro pita el inicio. Nadie capitaliza la emoción del tercer tiempo y la carga de resultados.
 2.  **Fricción de carga:** Las apps que permiten llevar historiales requieren configuraciones previas (torneos, temporadas, planillas). Hay un espacio enorme para una carga de datos de "un solo toque".
 3.  **Estética profesional para amateurs:** El jugador amateur consume Promiedos u OneFootball todos los días. Si le damos esa misma calidad visual a su partido de los jueves, el sentido de pertenencia y retención será altísimo.
 
-# 6. Diferenciadores de Fulbito
+# 7. Diferenciadores de Fulbito
 
 *   **Privacidad por diseño:** No somos una red social abierta para buscar desconocidos. Somos el diario íntimo del grupo.
 *   **Fricción casi nula:** Cargar un partido toma menos de un minuto. El diseño móvil nativo y la sincronización en tiempo real deben garantizar que la app nunca se interponga entre el usuario y la diversión.
 *   **Horizontalidad:** No hay "delegados" ni "administradores de liga". Todos los amigos tienen el mismo peso para cargar goles y ver estadísticas.
 
-# 7. Principios que guiarán el desarrollo
+# 8. Principios que guiarán el desarrollo
 
 A partir de esta investigación se establecen los siguientes principios para el desarrollo de Fulbito:
 
@@ -70,7 +82,7 @@ A partir de esta investigación se establecen los siguientes principios para el 
 - No competir con WhatsApp, sino complementarlo.
 - Registrar un partido debe ser un proceso rápido y natural.
 
-# 8. Conclusiones
+# 9. Conclusiones
 
 La investigación valida fuertemente la visión de Fulbito. Mientras el mercado se pelea por organizar el *próximo* partido o administrar el torneo de los domingos, Fulbito busca convertirse en el lugar donde la historia de cada grupo permanezca en el tiempo. Para un análisis más profundo sobre las decisiones que tomaremos a partir de estos datos, referirse al archivo `02-02-conclusions.md`.
 
